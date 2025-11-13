@@ -1,0 +1,1 @@
+﻿ng new nom_de_l_exo --skip-tests --inline-style --inline-template --standalone --skip-git
